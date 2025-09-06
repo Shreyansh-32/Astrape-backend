@@ -21,8 +21,6 @@ model Product{
   id    Int   @id   @default(autoincrement())
   title   String
   description   String
-  author    String
-  page    Int
   price   Int
   category    String
   quantity    Int
