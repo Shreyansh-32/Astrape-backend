@@ -7,9 +7,13 @@ exports.prisma = void 0;
 const express_1 = __importDefault(require("express"));
 const client_1 = require("@prisma/client");
 const user_1 = require("./routes/user");
+const product_1 = require("./routes/product");
+const cart_1 = require("./routes/cart");
 const app = (0, express_1.default)();
 app.use(express_1.default.json());
 app.use("/user", user_1.userRouter);
+app.use("/product", product_1.productRouter);
+app.use("/cart", cart_1.cartRouter);
 app.listen(8000, () => {
     console.log("Server listening on port 8000");
 });
