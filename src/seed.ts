@@ -8,7 +8,7 @@ const products = [
     "price": 14999,
     "category": "Headphones",
     "quantity": 50,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Aura+Pro"
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2070&auto=format&fit=crop"
   },
   {
     "title": "Zenith Z1 Pro Smartphone",
@@ -16,7 +16,7 @@ const products = [
     "price": 69999,
     "category": "Smartphones",
     "quantity": 30,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Zenith+Z1+Pro"
+    "imageUrl": "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=1965&auto=format&fit=crop"
   },
   {
     "title": "NovaBook Ultra Thin Laptop",
@@ -24,7 +24,7 @@ const products = [
     "price": 129999,
     "category": "Laptops",
     "quantity": 20,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=NovaBook+Ultra"
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1926&auto=format&fit=crop"
   },
   {
     "title": "Chrono Series 5 Smartwatch",
@@ -32,7 +32,7 @@ const products = [
     "price": 24999,
     "category": "Smartwatches",
     "quantity": 75,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Chrono+5"
+    "imageUrl": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=1964&auto=format&fit=crop"
   },
   {
     "title": "Orbit Gaming Mouse",
@@ -40,7 +40,7 @@ const products = [
     "price": 4999,
     "category": "Accessories",
     "quantity": 150,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Orbit+Mouse"
+    "imageUrl": "https://images.unsplash.com/photo-1615663249853-2d1b9a1286c0?q=80&w=1974&auto=format&fit=crop"
   },
   {
     "title": "SoundPod Mini Earbuds",
@@ -48,7 +48,7 @@ const products = [
     "price": 7999,
     "category": "Headphones",
     "quantity": 200,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=SoundPod+Mini"
+    "imageUrl": "https://images.unsplash.com/photo-1606220588913-b3aaa16c47b4?q=80&w=2070&auto=format&fit=crop"
   },
   {
     "title": "Pixel Slate Graphics Tablet",
@@ -56,7 +56,7 @@ const products = [
     "price": 19999,
     "category": "Accessories",
     "quantity": 40,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Pixel+Slate"
+    "imageUrl": "https://images.unsplash.com/photo-1622228519783-6223403a55e6?q=80&w=2070&auto=format&fit=crop"
   },
   {
     "title": "Apex Pro Mechanical Keyboard",
@@ -64,7 +64,7 @@ const products = [
     "price": 11999,
     "category": "Accessories",
     "quantity": 60,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Apex+Pro"
+    "imageUrl": "https://images.unsplash.com/photo-1618384887924-2c8ab63a4c32?q=80&w=1964&auto=format&fit=crop"
   },
   {
     "title": "Nebula 15 Gaming Laptop",
@@ -72,7 +72,7 @@ const products = [
     "price": 179999,
     "category": "Laptops",
     "quantity": 15,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Nebula+15"
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=2068&auto=format&fit=crop"
   },
   {
     "title": "Zenith Z1 Lite Smartphone",
@@ -80,7 +80,7 @@ const products = [
     "price": 29999,
     "category": "Smartphones",
     "quantity": 100,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Zenith+Z1+Lite"
+    "imageUrl": "https://images.unsplash.com/photo-1567581935887-289502c25a08?q=80&w=1974&auto=format&fit=crop"
   },
   {
     "title": "Chrono SE Smartwatch",
@@ -88,7 +88,7 @@ const products = [
     "price": 15999,
     "category": "Smartwatches",
     "quantity": 90,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Chrono+SE"
+    "imageUrl": "https://images.unsplash.com/photo-1579586337278-35d9addb318d?q=80&w=2070&auto=format&fit=crop"
   },
   {
     "title": "Aura Studio Headphones",
@@ -96,7 +96,7 @@ const products = [
     "price": 29999,
     "category": "Headphones",
     "quantity": 25,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Aura+Studio"
+    "imageUrl": "https://images.unsplash.com/photo-1545127398-14699f92334b?q=80&w=1974&auto=format&fit=crop"
   },
   {
     "title": "WorkPad Pro Laptop",
@@ -104,7 +104,7 @@ const products = [
     "price": 99999,
     "category": "Laptops",
     "quantity": 35,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=WorkPad+Pro"
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop"
   },
   {
     "title": "Zenith Fold Smartphone",
@@ -112,7 +112,7 @@ const products = [
     "price": 149999,
     "category": "Smartphones",
     "quantity": 10,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=Zenith+Fold"
+    "imageUrl": "https://images.unsplash.com/photo-1610792516307-ea2acd0c4208?q=80&w=2070&auto=format&fit=crop"
   },
   {
     "title": "PowerHub 4-in-1 Charger",
@@ -120,7 +120,7 @@ const products = [
     "price": 6999,
     "category": "Accessories",
     "quantity": 250,
-    "imageUrl": "https://placehold.co/600x400/1a1a1a/ffffff?text=PowerHub"
+    "imageUrl": "https://images.unsplash.com/photo-1588881947872-3518c7c936c9?q=80&w=2030&auto=format&fit=crop"
   }
 ]
 

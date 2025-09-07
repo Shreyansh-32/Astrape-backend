@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "tsc -b && node dist/index.js",
-    "seed": "tsc -b && node dist/seed.js"
+    "seed": "tsc -b && node dist/seed.js",
+    "build" : "tsc -b && prisma generate"
   },
   "keywords": [],
   "author": "",
